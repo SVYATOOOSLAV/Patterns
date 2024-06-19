@@ -63,7 +63,6 @@ class JuniorDeveloper : Developer {
     override fun create(test: Test) {
         println("Fall test...")
     }
-
 }
 
 class SeniorDeveloper : Developer {

@@ -1,4 +1,4 @@
-package basePatterns
+package basePatterns.behavioral.iterator
 
 fun main() {
     val skills: Array<String> = arrayOf("Kotlin", "Git", "Docker", "Gradle", "PostgreSQL")

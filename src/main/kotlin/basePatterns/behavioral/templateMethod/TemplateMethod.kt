@@ -1,4 +1,4 @@
-package basePatterns
+package basePatterns.behavioral.templateMethod
 
 fun main() {
     val aA: AbstractClass = ConcreteClassA()
